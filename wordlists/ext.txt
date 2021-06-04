@@ -1,0 +1,10 @@
+.php
+.php3
+.php5
+.phtml
+.jpg
+.pdf
+.rb
+.py
+.c
+.md
