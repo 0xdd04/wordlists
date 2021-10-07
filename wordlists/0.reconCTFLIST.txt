@@ -83,6 +83,8 @@ administrat
 administrator/panel.php
 panel.php
 administrat/index.php
+solr
+solr/select
 
 c99.php
 c99shell.php
