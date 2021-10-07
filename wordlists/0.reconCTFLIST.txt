@@ -5,6 +5,7 @@ readme.md
 source
 getFlag
 checkFlag
+flag.txt
 app
 app.js
 console
